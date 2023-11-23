@@ -16,7 +16,10 @@ Apresentação do Software
 - Pizzarias enfrentam desafios na gestão de vendas, pedidos.
 - Processos manuais consomem tempo e podem levar a erros.
 - Necessidade de uma solução automatizada e eficaz.
+
 <img src="/img/modeloconceitual atualizado foto.jpg">
+![Texto alternativo](img/modeloconceitual_atualizado_foto.jpg)
+
 
 
 ---
