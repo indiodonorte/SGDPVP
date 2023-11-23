@@ -5,11 +5,16 @@ Apresentação do Software
 ### Congresso CAT-FAM
 
 #### MODELAGEM DE BD PARA PIZZARIAS
+
+---
 - **FASE** Modelo Conceitual
+---
 
 ![modeloconceitual atualizado foto](https://github.com/indiodonorte/SGDPVP/assets/117863003/dc9eaa2d-a5d5-43a7-b145-d98a4b83f8f9)
 
+---
 - **FASE** Modelo Logico
+---
   
 ![logico, normalizado](https://github.com/indiodonorte/SGDPVP/assets/117863003/e0f24c4f-34d6-483e-8bc0-23136c795ac4)
 
