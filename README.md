@@ -1,24 +1,17 @@
 # MBDPP
 Apresentação do Software
 # Apresentação do Software
-###### MODELAGEM DE BD PARA PIZZARIAS
+##MODELAGEM DE BD PARA PIZZARIAS
 ### Congresso CAT-FAM
 
-## Visão Geral
+#### MODELAGEM DE BD PARA PIZZARIAS
+- **FASE** Modelo Conceitual
 
-- **Título:** MODELAGEM DE BD PARA PIZZARIAS
-- **Objetivo:** Apresentar uma solução de software eficiente para pizzarias que otimiza o gerenciamento de vendas, pedidos.
+![modeloconceitual atualizado foto](https://github.com/indiodonorte/SGDPVP/assets/117863003/dc9eaa2d-a5d5-43a7-b145-d98a4b83f8f9)
 
----
-
-## Problema
-
-- Pizzarias enfrentam desafios na gestão de vendas, pedidos.
-- Processos manuais consomem tempo e podem levar a erros.
-- Necessidade de uma solução automatizada e eficaz.
-
-<img src="/img/modeloconceitual atualizado foto.jpg">
-![Texto alternativo](img/modeloconceitual_atualizado_foto.jpg)
+- **FASE** Modelo Logico
+  
+![logico, normalizado](https://github.com/indiodonorte/SGDPVP/assets/117863003/e0f24c4f-34d6-483e-8bc0-23136c795ac4)
 
 
 
